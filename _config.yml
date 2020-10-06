@@ -1,7 +1,7 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'Jackson Borneman'
+description: 'Student'
+meta_description: 'Learning to build the next generation of computer systems'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
@@ -9,38 +9,39 @@ author:
   greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+production_url: https://jaxb.net
+disqus: 'jaxb-net'
+mailchimp_url: 
+#'//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: UA-179693434-1
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: me@jaxb.net
+contact_page_description: "Feel feel free to drop me a line with the included form or via email me@jaxb.net"
+thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
-
+twitter: 'jaxb__'
+facebook:
+github: 'jax-b'
+codepen: 
+dribbble: 
+medium: 
+instagram: 
+pinterest: 
+linkedin: 'jacksonborneman'
+producthunt: 
+quora: 
+  
 # Navigation
 navigation:
   - text: Home
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Projects
+    url: /projects
   - text: Contact Me
     url: /contact
   - text: Search

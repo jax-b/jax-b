@@ -54,7 +54,11 @@
         {% include icons/quora.html %}
     </a>
     {% endif %}
-    
+    {% if site.email %}
+    <a href="mailto:{{ site.email }}" target="_blank">
+        {% include icons/envelope.html %}
+    </a>
+    {% endif %}
     <a href="/pgppub" target="_blank">
         {% include icons/key.html %}
     </a>
