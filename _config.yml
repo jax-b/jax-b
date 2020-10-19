@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hello, Im Jackson Borneman. I do various computer projects arount the US."
+  greetings: "Hello, I'm Jackson Borneman. I do various computer projects arount the US."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://jaxb.net
