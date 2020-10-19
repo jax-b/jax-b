@@ -22,7 +22,7 @@ Jackson has earned multiple certifications including:
 
 Jackson also has many hobbies including:
 - Arial Photography
-- Hobbye Electronics
+- Hobby Electronics
 
 
 Jackson lives in the Washinton DC area.
