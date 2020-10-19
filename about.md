@@ -8,7 +8,7 @@ Jackson Borneman is a Technical Intern specializing in advanced computer systems
   
 In his free time Jackson experiments with electronics, computer system maintenance and administration.
 
-Jackson earned the rank of Eagle Scout in November of 2016 
+Jackson earned the rank of Eagle Scout in November of 2016. 
 
 Jackson has earned multiple certifications including: 
 - CompTIA A+
@@ -22,7 +22,7 @@ Jackson has earned multiple certifications including:
 
 Jackson also has many hobbies including:
 - Arial Photography
-- Hobbie Electronics
+- Hobbye Electronics
 
 
 Jackson lives in the Washinton DC area.
