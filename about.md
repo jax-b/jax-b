@@ -25,7 +25,7 @@ Jackson also has many hobbies including:
 - Hobby Electronics
 
 
-Jackson lives in the Washinton DC area.
+Jackson lives in the Washington DC area.
 
 <!-- 
 Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
