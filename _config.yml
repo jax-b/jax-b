@@ -52,7 +52,7 @@ plugins_dir:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  
 # Pagination
 paginate: 5
 paginate_path: /page:num/
@@ -67,3 +67,15 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
