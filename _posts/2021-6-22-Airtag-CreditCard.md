@@ -3,7 +3,7 @@ layout: post
 title: "Making the AirTag thinner"
 tags: [AirTag, Apple, 3DPrinting]
 featured_image: assets/images/posts/2021/airtagwall/walletopen.jpg
-featured: True
+featured: False
 ---
 
 Apple's AirTag is a neat piece of technology allowing for a user to easily locate their lost things. Except, for the small issue that its huge! At 8mm thick it can't fit easily in most wallets, causing a large uncomfortable bump. I tried several things to help mitigate that issue including designing a shell to help spread out the bump and printing someone else's [credit card ring loop](https://www.thingiverse.com/thing:4843434). However that broke in a month, and I was stuck without a tracker.
