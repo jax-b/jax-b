@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Jackson Borneman is a Technical Intern specializing in advanced computer systems. He is currently enrolled at George Mason University studying for a Bachelor of Applied Science in **Cybersecurity**.  
+Jackson Borneman is a Cybersecuriy Engineer at ManTech. He is recently completed a Bachelor of Applied Science in **Cybersecurity** at George Mason University.  
   
 In his free time Jackson experiments with electronics, computer system maintenance and administration.
 
@@ -16,6 +16,9 @@ Jackson has earned multiple certifications including:
 - CompTIA Security+
 - CompTIA CyberSecurity Analyst+
 - CompTIA Linux+
+- Splunk Core Certified Power User
+- Splunk Core Certified user
+- AutoPSY 8-Hour Training
 - MDI – IDC Hardware and Basic Software
 - Verint – Verint VMS 7.5 Core Certification
 - Arduino Fundamentals
@@ -23,7 +26,6 @@ Jackson has earned multiple certifications including:
 Jackson also has many hobbies including:
 - Arial Photography
 - Hobby Electronics
-
 
 Jackson lives in the Washington DC area.
 
