@@ -5,7 +5,7 @@ meta_description: 'Learning to build the next generation of computer systems'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
+  image: 'authorimage.webp'
   greetings: "Hello, I'm Jackson Borneman. I do various computer projects around the US."
 favicon: 'assets/images/favicon.ico'
 baseurl: 

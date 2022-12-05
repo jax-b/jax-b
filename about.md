@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/pages/about.webp
 ---
 
 Jackson Borneman is a Technical Intern specializing in advanced computer systems. He is currently enrolled at George Mason University studying for a Bachelor of Applied Science in **Cybersecurity**.  

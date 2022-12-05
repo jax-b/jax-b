@@ -2,7 +2,7 @@
 layout: post
 title: "MagSafe Car Adapter"
 tags: [MagSafe, Apple, 3DPrinting, Ford, Escape]
-featured_image: assets/images/posts/2021/magsafecarmount/fordescape2020charger.jpg
+featured_image: assets/images/posts/2021/magsafecarmount/fordescape2020charger.webp
 ---
 
 Quite a few months back Apple announced their new iPhone 12, with a new charging standard called MagSafe. This new charging standard uses wireless charging and a ring of locating magnets. I bought the new phone and MagSafe Charger and I was excited to try it out. It had a surprising amount of holding power and I thought it would hold my phone well in the car. At the time there was no charging MagSafe car mount so I had to build one.

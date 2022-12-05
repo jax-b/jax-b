@@ -8,5 +8,5 @@ pause: 5000
 controls: true
 ---
 
-* ![Front](/assets/images/posts/2021/magsafecarmount/fusionfrontrender.png)
-* ![Home](/assets/images/posts/2021/magsafecarmount/fusionhomerender.png)
+* ![Front](/assets/images/posts/2021/magsafecarmount/fusionfrontrender.webp)
+* ![Home](/assets/images/posts/2021/magsafecarmount/fusionhomerender.webp)
