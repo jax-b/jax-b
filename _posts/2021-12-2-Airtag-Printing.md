@@ -2,7 +2,7 @@
 layout: post
 title: "Printing on the Airtag Wallet"
 tags: [AirTag, Apple, Printing]
-featured_image: assets/images/posts/2021/airtagwallprint/front.jpg
+featured_image: assets/images/posts/2021/airtagwallprint/front.webp
 featured: True
 ---
 

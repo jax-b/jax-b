@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/pages/about.webp
 ---
 
 Jackson Borneman is a Cybersecuriy Engineer at ManTech. He is recently completed a Bachelor of Applied Science in **Cybersecurity** at George Mason University.  
