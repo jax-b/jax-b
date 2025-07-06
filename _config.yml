@@ -1,12 +1,12 @@
 # Site setings
 name: 'Jackson Borneman'
-description: 'Student'
-meta_description: 'Learning to build the next generation of computer systems'
+description: 
+meta_description: 'Personal website of Jackson Borneman, a computer enthusiast based in the US.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.webp'
-  greetings: "Hello, I'm Jackson Borneman. I do various computer projects around the US."
+  greetings: "Hey you, here's Jackson"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://jaxb.net
@@ -17,12 +17,12 @@ mailchimp_url:
 ga_analytics: UA-179693434-1
 
 # Contact form setings
-email: me@jaxb.net
-contact_page_description: "Feel feel to drop me a line with the included form or via email me @ jaxb . net"
+email: me+contactpage@jaxb.net
+contact_page_description: "Feel feel to drop me a line with the included form"
 thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
-twitter: 'jaxb__'
+twitter:
 facebook:
 github: 'jax-b'
 codepen: 
@@ -30,7 +30,7 @@ dribbble:
 medium: 
 instagram: 
 pinterest: 
-linkedin: 'jacksonborneman'
+linkedin:
 producthunt: 
 quora: 
 
